@@ -1,0 +1,111 @@
+{
+    "description": "项目配置文件",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "nodeModules": true,
+        "autoAudits": false,
+        "uglifyFileName": true,
+        "checkInvalidKey": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        }
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.6.4",
+    "appid": "wxeee7fb7a51e21d29",
+    "projectname": "%E5%AE%81%E5%A4%8F%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "专家",
+                    "pathName": "pages/expert/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "问答",
+                    "pathName": "pages/forum/forum",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "发布",
+                    "pathName": "pages/release/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "专家详情",
+                    "pathName": "pages/expert/info/expert_info",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "消息",
+                    "pathName": "pages/chat/chat",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "界面",
+                    "pathName": "pages/chat/chatUI/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "帖子详情",
+                    "pathName": "pages/forum/info/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "我的",
+                    "pathName": "pages/user/user",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "成为专家",
+                    "pathName": "pages/user/apply_expert/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "资讯详情",
+                    "pathName": "pages/information/info/index",
+                    "query": "id=3&img=https://img.psy525.cn/upload/2018/12/11/ba3223704fe14582a736a2d1addbffef.jpg",
+                    "scene": null
+                },
+                {
+                    "name": "资讯列表",
+                    "pathName": "pages/information/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "发布",
+                    "pathName": "pages/release/index",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}
